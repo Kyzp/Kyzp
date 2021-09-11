@@ -2,4 +2,4 @@
 
 </h1>
 
-<h4 align="center">🚩 Hello my name is zAkya or you can call me Zky.</h4>
+<h4 align="center">🚩 Hello my name is zAzkya or you can call me Zky.</h4>
