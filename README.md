@@ -1,5 +1,6 @@
-☁ <a href="https://www.spigotmc.org/members/zazkya.1405036/">Spigot Profile</a>
+<img src="https://github.com/Kyzp/Kyzp/blob/main/assets/Background.png?raw=true">
 
-## 📋 Who am i?
+🔖 <a href="https://dc.akyramc.net">**Akyra Network**</a>
 
+## 📋 Profile
 Hi, I'm Kyzp or you can call me Zky.
