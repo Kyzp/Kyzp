@@ -1,4 +1,4 @@
-[![PHOTO AT FLOOR](/assets/IMG_9457.JPG)](https://niaz.my.id)
+[![PHOTO AT FLOOR](/assets/NiazTy.png)](https://niaz.my.id)
 
 <h1 align='center'>HI THERE! 👋</h1>
 <p align='center'>I'm NiazTy or you can call me Niaz.</p>
